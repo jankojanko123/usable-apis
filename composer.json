@@ -1,0 +1,9 @@
+{
+    "require": {
+        "openxbl/openxbl": "dev-master",
+        "da-mitchell/steam-api": "^2.1",
+        "tustin/psn-php": "^2.1",
+        "restcord/restcord": "^0.4.0",
+        "nicklaw5/twitch-api-php": "^2.1"
+    }
+}
